@@ -35,7 +35,8 @@ class RolesManager implements ManagerContract
         'delete',
         'update',
         'browse',
-        'view'
+        'view',
+        'restore'
     ];
 
     const DEFAULT_ROLE = 'admin';
